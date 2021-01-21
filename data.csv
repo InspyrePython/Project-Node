@@ -1,0 +1,13 @@
+Id,Name,Shape Library,Page ID,Contained By,Group,Line Source,Line Destination,Source Arrow,Destination Arrow,Text Area 1
+1,Page,,,,,,,,,Page 1
+2,Decision,Flowchart Shapes,1,,,,,,,<
+3,Terminator,Flowchart Shapes,1,,,,,,,TRUE
+4,Terminator,Flowchart Shapes,1,,,,,,,4
+5,Terminator,Flowchart Shapes,1,,,,,,,3
+6,Process,Flowchart Shapes,1,,,,,,,Output
+7,Terminator,Flowchart Shapes,1,,,,,,,FALSE
+8,Line,,1,,,2,6,None,Arrow,Yes
+9,Line,,1,,,3,2,None,Arrow,
+10,Line,,1,,,4,2,None,Arrow,
+11,Line,,1,,,5,2,None,Arrow,
+12,Line,,1,,,7,2,None,Arrow,
